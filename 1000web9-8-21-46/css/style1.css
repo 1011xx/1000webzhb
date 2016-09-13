@@ -1,0 +1,201 @@
+/*轮播图*/
+
+#div1 {
+	height: 400px;
+	overflow: hidden;
+	position: relative;
+}
+
+#div1 li {
+	float: left;
+}
+
+.imgul {
+	width: 8000px;
+	list-style: none;
+	position: absolute;
+}
+
+.imgul img {
+	margin: 0 0 0 -100px;
+}
+
+.navul {
+	width: 100px;
+	height: 20px;
+	position: absolute;
+	top: 370px;
+	left: 600px;
+	list-style: none;
+}
+
+.navul li {
+	width: 20px;
+	height: 20px;
+	margin-left: 5px;
+	border-radius: 20px;
+	text-align: center;
+	background-color: #999999;
+	opacity: 0.5;
+}
+
+.navul .lion {
+	background: #fff;
+	opacity: 1;
+}
+
+.main1 {
+	height: 470px;
+	position: relative;
+	padding-top: 20px;
+}
+
+#fgc {
+	width: 1200px;
+	height: 100px;
+	position: absolute;
+	top: 120px;
+	left: 135px;
+}
+
+#fgc div {
+	width: 90px;
+	height: 100px;
+	margin-right: 75px;
+	float: left;
+}
+
+.dimg {
+	height: 244px;
+}
+
+.pimg {
+	width: 1170px;
+	height: 248px;
+}
+
+
+/*案例*/
+
+
+/*团队*/
+
+#tb {
+	background-color: #f7f7f7;
+	height: 220px;
+	padding: 10px 0 0 10px;
+}
+
+#tb li {
+	float: left;
+	width: 132px;
+	height: 215px;
+	/*	background-color: red;*/
+	margin-left: 10px;
+}
+
+#team dl {
+	width: 269px;
+	height: 274px;
+	float: left;
+	margin: 20px 0 0 20px;
+	border: 1px solid #999999;
+}
+
+#team dl dt {
+	height: 170px;
+	border-bottom: 1px dashed #C9C9C9;
+}
+
+#team dl dd {
+	padding: 10px 10px;
+}
+
+#team dt img {
+	width: 145px;
+	height: 150px;
+	float: left;
+}
+
+#team dt p {
+	height: 170px;
+	width: 115px;
+	float: left;
+	margin-left: 5px;
+}
+
+#team dt p span,
+#team dt p i,
+#team dt p b {
+	display: block;
+	line-height: 30px;
+}
+
+#team dt p span {
+	font: bold 14px arial;
+	line-height: 30px;
+}
+
+#team dt p i {
+	font: bold 14px arial;
+	color: #E65096;
+}
+
+.more {
+	width: 100%;
+	height: 20px;
+	padding: 10px 30px 0 0;
+	float: right;
+	text-align: right;
+	color: red;
+	font: bold 14px "微软雅黑";
+}
+
+.m4dl dl {
+	height: 110px;
+	width: 100%;
+	background-color: antiquewhite;
+	border: 1px solid #C9C9C9;
+	padding: 5px;
+	margin-top: 20px;
+	overflow: hidden;
+}
+
+.m4dl dl dt {
+	width: 250px;
+	height: 98px;
+	float: left;
+	overflow: hidden;
+}
+
+.m4dl dl dt img {
+	width: 100%;
+	height: 100%;
+}
+
+.m4dl dl dd {
+	float: left;
+	margin-left: 10px;
+	height: 98px;
+	width: 900px;
+}
+
+
+/*5*/
+
+.main5 {
+	height: 70px;
+}
+
+.main5 h3 {
+	float: left;
+}
+
+.main5 a {
+	display: block;
+	float: right;
+	padding-right: 130px;
+}
+
+
+/*底部*/

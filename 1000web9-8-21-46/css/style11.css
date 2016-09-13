@@ -1,0 +1,39 @@
+.m2div, .main2 div {
+  width: 572px;
+  height: 516px;
+  float: left;
+  margin-top: 20px;
+  border: 1px solid #000; }
+
+.ulstyle, .main2 div ul li {
+  width: 270px;
+  height: 194px;
+  float: left;
+  margin: 10px 5px 0 10px; }
+
+.main2 div ul li img {
+  width: 100%;
+  height: 100%; }
+
+.main2right {
+  margin-left: 20px; }
+
+.m2p, .main2 p {
+  height: 110px;
+  padding-left: 20px; }
+
+.m2span, .main2 p span {
+  width: 100%;
+  height: 50px;
+  display: block;
+  color: red;
+  font: bold 26px arial; }
+
+.main2 p span {
+  line-height: 50px; }
+
+.main2 p i {
+  display: block;
+  height: 20px; }
+
+/*# sourceMappingURL=style11.css.map */

@@ -1,0 +1,60 @@
+
+.epList{
+	width: 375px;
+	height: 330px;
+	overflow: hidden;
+	margin: 20px 10px 0 0;
+	float: left;
+	border: 2px solid #E0E0E0;
+}
+.epList dt  p{
+	width: 100%;
+	padding: 10px 0;
+	height: 20px;
+	font: 18px "微软雅黑";
+	border-bottom: 1px dashed #C9C9C9;
+}
+.epList dt  p:hover{
+	color: #E65096;
+}
+.epList dd{
+	padding: 10px 0 0 20px;
+}
+.epList dd{
+	background: url(../img/eximg/address.png) no-repeat left 12px;
+}
+
+
+
+/*btn*/
+#btnlist{
+	padding:20px 10px;
+}
+.on{
+	color: red;
+}
+#btnlist p{
+	width: 300px;
+	height: 60px;
+	line-height: 60px;
+	float: left;
+}
+#btnylist{
+	margin: 0 auto;
+	height: 60px;
+}
+#btnylist li{
+	width: 50px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	float: left;
+	margin: 0 5px;
+	border: 1px solid #C9C9C9;
+}
+
+.zixun a{
+	position: fixed;
+	bottom: 100px;
+	right: 0;
+}

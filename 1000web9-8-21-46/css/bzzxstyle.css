@@ -1,0 +1,55 @@
+.bzzxdimg{
+	padding: 0 30px 200px;
+}
+#bzzxfgc{
+	padding: 30px 20px;
+}
+#bzzxfgc li{
+	width: 130px;
+	height: 130px;
+	float: left;
+	margin-left: 25px;
+}
+.fgcd1{
+	background: url(../img/bzzxImg/smrz.png) no-repeat left top;
+}
+.fgcd2{
+	background: url(../img/bzzxImg/djdb.png) no-repeat left top;
+}
+.fgcd3{
+	background: url(../img/bzzxImg/jgtm.png) no-repeat left top;
+}
+.fgcd4{
+	background: url(../img/bzzxImg/wytk.png) no-repeat left top;
+}
+.fgcd5{
+	background: url(../img/bzzxImg/yjfw.png) no-repeat left top;
+}
+.fgcd6{
+	background: url(../img/bzzxImg/zspj.png) no-repeat left top;
+}
+.fgcd1:hover{
+	background: url(../img/bzzxImg/smrz_h.png) no-repeat left top;
+}
+.fgcd2:hover{
+	background: url(../img/bzzxImg/djdb_h.png) no-repeat left top;
+}
+.fgcd3:hover{
+	background: url(../img/bzzxImg/jgtm_h.png) no-repeat left top;
+}
+.fgcd4:hover{
+	background: url(../img/bzzxImg/wytk_h.png) no-repeat left top;
+}
+.fgcd5:hover{
+	background: url(../img/bzzxImg/yjfw_h.png) no-repeat left top;
+}
+.fgcd6:hover{
+	background: url(../img/bzzxImg/zspj_h.png) no-repeat left top;
+}
+
+
+.zixun a{
+	position: fixed;
+	bottom: 50px;
+	right: 0;
+}

@@ -1,0 +1,170 @@
+@charset "UTF-8";body,button,code,dd,del,div,dl,dt,em,form,h1,h2,h3,h4,h5,h6,html,iframe,img,input,label,li,ol,p,pre,select,span,strong,table,tbody,td,textarea,tfoot,th,tr,ul
+{margin:0;padding:0}
+body{
+	color:#333;
+	background-color:#fff
+}
+body,button,input,select,textarea{
+	font:12px/1.5 'Microsoft YaHei',tahoma,arial,serif
+}
+ol,ul{
+	list-style:none
+}
+blockquote,q{
+	quotes:none
+}
+blockquote:after,blockquote:before,q:after,q:before{
+	content:none
+}
+textarea{
+     overflow:auto;resize:none
+}:focus{outline:0}
+ins{text-decoration:none}
+del{text-decoration:line-through}
+table{border-collapse:collapse;border-spacing:0}
+a{text-decoration:none;color:#333}a:hover{color:#ff8181}
+button,input{overflow:visible}
+
+.clx{zoom:1}
+
+.clx:after{clear:both;content:".";display:block;height:0;visibility:hidden;overflow:hidden}
+
+.fl{float:left}
+
+.fr{float:right}
+h1,h2,h3,h4,h5,h6{font-weight:400;font-size:100%}
+i{font-style:normal}
+b{font-weight:400}
+img{vertical-align:top;border:0}
+li{vertical-align:top}
+ul,li{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.boxx{
+	width: 1170px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+
+
+.header{
+	padding: 50px 150px;
+}
+.loginMain{
+	padding: 0px 150px;
+	font: 14px "微软雅黑";
+}
+.headerdiv1{
+	height: 70px;
+	width: 100%;
+	padding: 0 0 50px 0;
+}
+.headerdiv1 a{
+	float: left;
+	width:140px;
+	height: 70px;
+	text-align: center;	
+	font: 26px "微软雅黑";
+	color: #999999;
+	line-height: 70px;
+}
+.bta{
+	border-right: 1px solid #E0E0E0;
+	background: url(../img/i-logo.png) no-repeat left 10px;
+}
+
+.headerdiv2{
+	height: 45px;
+	border-bottom: 3px solid #C9C9C9;
+}
+.headerdiv2 .pl{
+	float: left;
+	width: 335px;
+	text-align: center;
+	font: 20px "微软雅黑";
+	height: 45px;
+}
+.headerdiv2 .pl a{
+	float: left;
+	margin-right: 20px;
+}
+.headerdiv2 .pr{
+	width: 300px;
+	height: 45px;
+	float: right;
+	line-height: 45px;
+	color: #999999;
+}
+.headerdiv2 .pr i{
+	color: #E65096;
+}
+.onys{display: block;
+	width: 135px;
+	height: 45px;
+	color: #E65096;
+	border-bottom: 3px solid #E65096;
+}
+
+
+
+
+#form input{
+	width: 280px;
+	height: 30px;
+	border: 1px solid #C9C9C9;
+	margin-left: 20px;
+}
+#form label{
+	text-align: right;
+}
+#form #ch{
+	margin-left: 40px;
+	float: left;
+	width: 20px;
+	height: 20px;
+}
+#form span{
+	margin-left: 60px;
+	width: 100px;
+	height: 20px;
+}
+#form #loginbtn{
+	margin-left: 40px;
+	width: 260px;
+	height: 40px;
+	background-color: #E65096;
+	border: 0;
+	color: #fff;
+	font: 20px "微软雅黑";
+}
+#form #loginbtn:hover{
+	background-color: #FF5500;
+}
+
+.loginMain{
+	background: url(../img/reg-p1.png) no-repeat 600px 10px;
+}
+
+.loginMain .p{
+	margin: 150px 0;
+	height: 80px;
+	width: 800px;
+	background-color: #f6f6f6;
+	font: 12px "微软雅黑";
+	color:#666666;
+}
+.loginMain .p ul li{
+	width: 100px;
+	height: 20px;
+	float: left;
+	padding: 10px 0;
+}
+.loginMain .p ul li a{
+	color: #666666;	
+}
+.loginMain .p span{
+	display: block;
+}

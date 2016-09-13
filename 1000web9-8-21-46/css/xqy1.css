@@ -1,0 +1,62 @@
+.xqyMain1{
+	height:60px;
+	line-height: 50px;
+}
+.xqyMain1 span{
+	color: red;
+}
+.xqyMain2 h5{
+	width: 100%;
+	height: 50px;
+	font: 30px "微软雅黑";
+	color: #999999;
+	text-align: center;
+	line-height: 50px;
+}
+.xqyMain2{
+	width: 800px;
+	float: left;
+	padding: 10px 65px;
+	border: 1px solid #C9C9C9;
+	margin-bottom: 20px;
+}
+.xqyMain2 li{
+	margin:0 0 30px 0;
+}
+.xqyright{
+	width: 200px;
+	height: 450px;
+	float: right;
+	padding:20px 10px 10px  10px;
+	border: 1px solid #C9C9C9;
+}
+.xqyright h6{
+	text-align: center;
+	height: 50px;
+	line-height: 50px;
+	font: 20px "微软雅黑";
+}
+.xqyright p{
+	padding:0 5px 30px 40px;
+}
+.xqyright span{
+	display: block;
+	font:  bold 14px "微软雅黑";
+}
+.xqyp1{
+	background: url(../img/xqy1Img/r1.png) no-repeat left top;
+}
+.xqyp2{
+	background: url(../img/xqy1Img/r2.png) no-repeat left top;
+}
+.xqyp3{
+	background: url(../img/xqy1Img/r3.png) no-repeat left top;
+}
+#xqybtn1{
+	width: 150px;
+	height: 43px;
+	margin-left: 20px;
+	background-color: #FF6C11;
+	border: 0;
+	border-bottom: 2px solid #FF0000;
+}

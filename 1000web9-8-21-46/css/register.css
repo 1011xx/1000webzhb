@@ -1,0 +1,10 @@
+.loginMain{
+	background: url(../img/login-left-img.jpg) no-repeat 600px 0;
+}
+.loginMain #yzmv{
+	width: 60px;
+	background-color:#8FBC8F;
+}
+.loginMain #yzm{
+	margin-left: 10px;
+}
